@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omkarprayag
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning high speed designing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in edge Computing, IoT
+- 🌱 I’m high-speed circuit designing
+- 💞️ I’m looking to collaborate on edge computing products
 - 📫 How to reach me omkar.prayag26@gmail.com
 
 <!---
